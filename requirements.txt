@@ -1,0 +1,10 @@
+nltk
+py7zr
+ttable
+sentence_transformers
+pickle
+pandas
+numpy
+matplotlib
+seaborn
+sklearn
